@@ -8,7 +8,7 @@ LabVIEW 2011
 
 ### Built Availability ###
 
-This IP is built and available [here](https://decibel.ni.com/content/docs/DOC-21393) but will be taken down soon.
+No builds are available.
 
 ### Quality, Limitations ###
 
