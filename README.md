@@ -1,3 +1,4 @@
+# NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests. This is not a reflection of the quality or usability of this IP.
 ## Ethernet IP Custom Device ##
 
 **Ethernet IP Custom Device** allows users to communicate with targets that support Logix tag names over EtherNet/IP.  This functionality is commonly used for communicating with industrial PLCs.
